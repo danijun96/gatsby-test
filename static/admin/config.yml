@@ -1,5 +1,6 @@
 backend:
-  name: test-repo
+  name: danijun96
+  repo: https://github.com/danijun96/gatsby-test.git
 
 media_folder: static/assets
 public_folder: assets
